@@ -1,19 +1,14 @@
 #This is Json files
 
+# This is Ravishanker Metadata
 {
 	"name" : "Ravi",
 	"age"	: 32,
 	"email"	: "ravi@test.com"
-
-
-
 }
+#This is for Shanker Metadata
 {
-        "name" : "Ravi",
-        "age"   : 32,
-        "email" : "ravi@test.com"
-
-
-
+        "name" : "shanker",
+        "age"   : 38,
+        "email" : "shanker@test.com"
 }
-
